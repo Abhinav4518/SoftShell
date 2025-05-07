@@ -23,5 +23,4 @@ A responsive, single-page marketing website for **SoftSell**, a fictional softwa
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Framer Motion](https://www.framer.com/motion/) (optional animation support)
 
-## 📂 Folder Structure
 
